@@ -890,6 +890,9 @@ html {
 
 /* For screens smaller than 768px (typical mobile devices) */
 @media screen and (max-width: 767px) {
+  .section-2{
+    margin-top: 20rem;
+  }
   .hero-content {
     padding: 50px; 
   }
